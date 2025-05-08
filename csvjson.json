@@ -1,0 +1,432 @@
+[
+  {
+    "Variant Name": "Adelaide",
+    "City": "Adelaide",
+    "Headline Text": "Hi Adelaide It's"
+  },
+  {
+    "Variant Name": "Albury",
+    "City": "Albury",
+    "Headline Text": "Welcome Albury It's"
+  },
+  {
+    "Variant Name": "Alice Springs",
+    "City": "Alice Springs",
+    "Headline Text": "Hi Alice Springs It's"
+  },
+  {
+    "Variant Name": "Ballarat",
+    "City": "Ballarat",
+    "Headline Text": "Hi Ballarat It's"
+  },
+  {
+    "Variant Name": "Bathurst",
+    "City": "Bathurst",
+    "Headline Text": "Welcome Bathurst It's"
+  },
+  {
+    "Variant Name": "Bendigo",
+    "City": "Bendigo",
+    "Headline Text": "Hi Bendigo It's"
+  },
+  {
+    "Variant Name": "Blacktown",
+    "City": "Blacktown",
+    "Headline Text": "Hi Blacktown It's"
+  },
+  {
+    "Variant Name": "Blue Mountains",
+    "City": "Blue Mountains",
+    "Headline Text": "Welcome Blue Mountains It's"
+  },
+  {
+    "Variant Name": "Bowral",
+    "City": "Bowral",
+    "Headline Text": "Hi Bowral It's"
+  },
+  {
+    "Variant Name": "Brisbane",
+    "City": "Brisbane",
+    "Headline Text": "Hi Brisbane It's"
+  },
+  {
+    "Variant Name": "Broken Hill",
+    "City": "Broken Hill",
+    "Headline Text": "Welcome Broken Hill It's"
+  },
+  {
+    "Variant Name": "Bunbury",
+    "City": "Bunbury",
+    "Headline Text": "Hi Bunbury It's"
+  },
+  {
+    "Variant Name": "Bundaberg",
+    "City": "Bundaberg",
+    "Headline Text": "Hi Bundaberg It's"
+  },
+  {
+    "Variant Name": "Burnie",
+    "City": "Burnie",
+    "Headline Text": "Welcome Burnie It's"
+  },
+  {
+    "Variant Name": "Cairns",
+    "City": "Cairns",
+    "Headline Text": "Hi Cairns It's"
+  },
+  {
+    "Variant Name": "Caloundra",
+    "City": "Caloundra",
+    "Headline Text": "Hi Caloundra It's"
+  },
+  {
+    "Variant Name": "Canberra",
+    "City": "Canberra",
+    "Headline Text": "Welcome Canberra It's"
+  },
+  {
+    "Variant Name": "Cessnock",
+    "City": "Cessnock",
+    "Headline Text": "Hi Cessnock It's"
+  },
+  {
+    "Variant Name": "Charters Towers",
+    "City": "Charters Towers",
+    "Headline Text": "Hi Charters Towers It's"
+  },
+  {
+    "Variant Name": "Coffs Harbour",
+    "City": "Coffs Harbour",
+    "Headline Text": "Welcome Coffs Harbour It's"
+  },
+  {
+    "Variant Name": "Darwin",
+    "City": "Darwin",
+    "Headline Text": "Hi Darwin It's"
+  },
+  {
+    "Variant Name": "Devonport",
+    "City": "Devonport",
+    "Headline Text": "Hi Devonport It's"
+  },
+  {
+    "Variant Name": "Dubbo",
+    "City": "Dubbo",
+    "Headline Text": "Welcome Dubbo It's"
+  },
+  {
+    "Variant Name": "Echuca",
+    "City": "Echuca",
+    "Headline Text": "Hi Echuca It's"
+  },
+  {
+    "Variant Name": "Emerald",
+    "City": "Emerald",
+    "Headline Text": "Hi Emerald It's"
+  },
+  {
+    "Variant Name": "Esperance",
+    "City": "Esperance",
+    "Headline Text": "Welcome Esperance It's"
+  },
+  {
+    "Variant Name": "Forster",
+    "City": "Forster",
+    "Headline Text": "Hi Forster It's"
+  },
+  {
+    "Variant Name": "Fremantle",
+    "City": "Fremantle",
+    "Headline Text": "Hi Fremantle It's"
+  },
+  {
+    "Variant Name": "Geelong",
+    "City": "Geelong",
+    "Headline Text": "Welcome Geelong It's"
+  },
+  {
+    "Variant Name": "Geraldton",
+    "City": "Geraldton",
+    "Headline Text": "Hi Geraldton It's"
+  },
+  {
+    "Variant Name": "Goulburn",
+    "City": "Goulburn",
+    "Headline Text": "Hi Goulburn It's"
+  },
+  {
+    "Variant Name": "Grafton",
+    "City": "Grafton",
+    "Headline Text": "Welcome Grafton It's"
+  },
+  {
+    "Variant Name": "Griffith",
+    "City": "Griffith",
+    "Headline Text": "Hi Griffith It's"
+  },
+  {
+    "Variant Name": "Gympie",
+    "City": "Gympie",
+    "Headline Text": "Hi Gympie It's"
+  },
+  {
+    "Variant Name": "Hervey Bay",
+    "City": "Hervey Bay",
+    "Headline Text": "Welcome Hervey Bay It's"
+  },
+  {
+    "Variant Name": "Hobart",
+    "City": "Hobart",
+    "Headline Text": "Hi Hobart It's"
+  },
+  {
+    "Variant Name": "Horsham",
+    "City": "Horsham",
+    "Headline Text": "Hi Horsham It's"
+  },
+  {
+    "Variant Name": "Ipswich",
+    "City": "Ipswich",
+    "Headline Text": "Welcome Ipswich It's"
+  },
+  {
+    "Variant Name": "Kalgoorlie",
+    "City": "Kalgoorlie",
+    "Headline Text": "Hi Kalgoorlie It's"
+  },
+  {
+    "Variant Name": "Kempsey",
+    "City": "Kempsey",
+    "Headline Text": "Hi Kempsey It's"
+  },
+  {
+    "Variant Name": "Karratha",
+    "City": "Karratha",
+    "Headline Text": "Welcome Karratha It's"
+  },
+  {
+    "Variant Name": "Kingaroy",
+    "City": "Kingaroy",
+    "Headline Text": "Hi Kingaroy It's"
+  },
+  {
+    "Variant Name": "Launceston",
+    "City": "Launceston",
+    "Headline Text": "Hi Launceston It's"
+  },
+  {
+    "Variant Name": "Lismore",
+    "City": "Lismore",
+    "Headline Text": "Welcome Lismore It's"
+  },
+  {
+    "Variant Name": "Lithgow",
+    "City": "Lithgow",
+    "Headline Text": "Hi Lithgow It's"
+  },
+  {
+    "Variant Name": "Logan City",
+    "City": "Logan City",
+    "Headline Text": "Hi Logan City It's"
+  },
+  {
+    "Variant Name": "Mackay",
+    "City": "Mackay",
+    "Headline Text": "Welcome Mackay It's"
+  },
+  {
+    "Variant Name": "Maitland",
+    "City": "Maitland",
+    "Headline Text": "Hi Maitland It's"
+  },
+  {
+    "Variant Name": "Mandurah",
+    "City": "Mandurah",
+    "Headline Text": "Hi Mandurah It's"
+  },
+  {
+    "Variant Name": "Mareeba",
+    "City": "Mareeba",
+    "Headline Text": "Welcome Mareeba It's"
+  },
+  {
+    "Variant Name": "Maryborough",
+    "City": "Maryborough",
+    "Headline Text": "Hi Maryborough It's"
+  },
+  {
+    "Variant Name": "Melton",
+    "City": "Melton",
+    "Headline Text": "Hi Melton It's"
+  },
+  {
+    "Variant Name": "Melbourne",
+    "City": "Melbourne",
+    "Headline Text": "Welcome Melbourne It's"
+  },
+  {
+    "Variant Name": "Mildura",
+    "City": "Mildura",
+    "Headline Text": "Hi Mildura It's"
+  },
+  {
+    "Variant Name": "Mount Gambier",
+    "City": "Mount Gambier",
+    "Headline Text": "Hi Mount Gambier It's"
+  },
+  {
+    "Variant Name": "Mount Isa",
+    "City": "Mount Isa",
+    "Headline Text": "Welcome Mount Isa It's"
+  },
+  {
+    "Variant Name": "Murwillumbah",
+    "City": "Murwillumbah",
+    "Headline Text": "Hi Murwillumbah It's"
+  },
+  {
+    "Variant Name": "Muswellbrook",
+    "City": "Muswellbrook",
+    "Headline Text": "Hi Muswellbrook It's"
+  },
+  {
+    "Variant Name": "Newcastle",
+    "City": "Newcastle",
+    "Headline Text": "Welcome Newcastle It's"
+  },
+  {
+    "Variant Name": "Nowra",
+    "City": "Nowra",
+    "Headline Text": "Hi Nowra It's"
+  },
+  {
+    "Variant Name": "Orange",
+    "City": "Orange",
+    "Headline Text": "Hi Orange It's"
+  },
+  {
+    "Variant Name": "Palmerston",
+    "City": "Palmerston",
+    "Headline Text": "Welcome Palmerston It's"
+  },
+  {
+    "Variant Name": "Parkes",
+    "City": "Parkes",
+    "Headline Text": "Hi Parkes It's"
+  },
+  {
+    "Variant Name": "Perth",
+    "City": "Perth",
+    "Headline Text": "Hi Perth It's"
+  },
+  {
+    "Variant Name": "Port Augusta",
+    "City": "Port Augusta",
+    "Headline Text": "Welcome Port Augusta It's"
+  },
+  {
+    "Variant Name": "Port Hedland",
+    "City": "Port Hedland",
+    "Headline Text": "Hi Port Hedland It's"
+  },
+  {
+    "Variant Name": "Port Lincoln",
+    "City": "Port Lincoln",
+    "Headline Text": "Hi Port Lincoln It's"
+  },
+  {
+    "Variant Name": "Port Macquarie",
+    "City": "Port Macquarie",
+    "Headline Text": "Welcome Port Macquarie It's"
+  },
+  {
+    "Variant Name": "Queanbeyan",
+    "City": "Queanbeyan",
+    "Headline Text": "Hi Queanbeyan It's"
+  },
+  {
+    "Variant Name": "Rockhampton",
+    "City": "Rockhampton",
+    "Headline Text": "Hi Rockhampton It's"
+  },
+  {
+    "Variant Name": "Rockingham",
+    "City": "Rockingham",
+    "Headline Text": "Welcome Rockingham It's"
+  },
+  {
+    "Variant Name": "Sale",
+    "City": "Sale",
+    "Headline Text": "Hi Sale It's"
+  },
+  {
+    "Variant Name": "Shepparton",
+    "City": "Shepparton",
+    "Headline Text": "Hi Shepparton It's"
+  },
+  {
+    "Variant Name": "Singleton",
+    "City": "Singleton",
+    "Headline Text": "Welcome Singleton It's"
+  },
+  {
+    "Variant Name": "Sunshine Coast",
+    "City": "Sunshine Coast",
+    "Headline Text": "Hi Sunshine Coast It's"
+  },
+  {
+    "Variant Name": "Sydney",
+    "City": "Sydney",
+    "Headline Text": "Hi Sydney It's"
+  },
+  {
+    "Variant Name": "Tamworth",
+    "City": "Tamworth",
+    "Headline Text": "Welcome Tamworth It's"
+  },
+  {
+    "Variant Name": "Taree",
+    "City": "Taree",
+    "Headline Text": "Hi Taree It's"
+  },
+  {
+    "Variant Name": "Toowoomba",
+    "City": "Toowoomba",
+    "Headline Text": "Hi Toowoomba It's"
+  },
+  {
+    "Variant Name": "Townsville",
+    "City": "Townsville",
+    "Headline Text": "Welcome Townsville It's"
+  },
+  {
+    "Variant Name": "Traralgon",
+    "City": "Traralgon",
+    "Headline Text": "Hi Traralgon It's"
+  },
+  {
+    "Variant Name": "Wagga Wagga",
+    "City": "Wagga Wagga",
+    "Headline Text": "Hi Wagga Wagga It's"
+  },
+  {
+    "Variant Name": "Warragul",
+    "City": "Warragul",
+    "Headline Text": "Welcome Warragul It's"
+  },
+  {
+    "Variant Name": "Warrnambool",
+    "City": "Warrnambool",
+    "Headline Text": "Hi Warrnambool It's"
+  },
+  {
+    "Variant Name": "Whyalla",
+    "City": "Whyalla",
+    "Headline Text": "Hi Whyalla It's"
+  },
+  {
+    "Variant Name": "Wollongong",
+    "City": "Wollongong",
+    "Headline Text": "Welcome Wollongong It's"
+  }
+]
